@@ -15,3 +15,5 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 --- | --- | --- | ---
 
 01 | [User Preference Study: Big City Music](https://github.com/Ainapalma/yandex_practicum/tree/main/01-user-preference-study-big-city-music) | Determine how the preferences of Yandex.Music listeners change depending on the day of the week. | *Python, Pandas*
+
+02 | [User Preference Study: Big City Music](https://github.com/Ainapalma/yandex_practicum/tree/main/01-user-preference-study-big-city-music) | Determine how the preferences of Yandex.Music listeners change depending on the day of the week. | *Python, Pandas*
