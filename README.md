@@ -1,9 +1,10 @@
 # Repository containing portfolio of Analytics / Business analytics, Data analytics and Data Science projects completed during the university studies
 
 ## Technology stack
-IDE: Jupyter Notebook <br>
-Programming languages: Python (ver. 3), SQL <br>
-Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, Scikit-Learn,etc. <br>
+IDE: DataSpell, Jupyter Notebook, RStudio <br>
+Programming languages: Python (ver. 3), SQL, R <br>
+Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, Scikit-Learn, etc. <br>
+Data visualisation: Tableau, MSPowerPoint, Power BI, Python(seaborn) <br>
 
 ## List of projects
 
