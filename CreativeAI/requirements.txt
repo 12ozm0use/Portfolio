@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+decord
+imageio
+imageio_ffmpeg
+tqdm
+matplotlib
